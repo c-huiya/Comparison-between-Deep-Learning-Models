@@ -19,14 +19,14 @@ This project presents a comparative analysis between a custom-built 19-layer Con
    ```bash
    pip install -r requirements.txt
 
-##How to Use:
+## How to Use:
 Open the Jupyter notebook (Applied_Deep_Learning_Project.ipynb) to see the comparison between the models. 
 The notebook includes data preprocessing, model training, and evaluation.
 
-##Dataset
+## Dataset
 The dataset images are stored in the dataset_transport/ directory.
 
-##Model Training
+## Model Training
 The models used for comparison:
 Custom CNN: A 19-layer Convolutional Neural Network built from scratch.
 MobileNetV2: A transfer learning model leveraging MobileNetV2.
