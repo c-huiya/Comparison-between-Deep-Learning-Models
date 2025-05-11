@@ -4,7 +4,7 @@
 This project presents a comparative analysis between a custom-built 19-layer Convolutional Neural Network (CNN) and two transfer learning models (MobileNetV2 and ResNet50V2).
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - TensorFlow
 - Keras
 - Matplotlib
